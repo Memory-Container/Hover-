@@ -127,11 +127,13 @@ h1 {
     height: 50%;
     width: 100%;
     background-position: center;
+    font-size: 22px;
 }
 .right{
     height: 50%;
     width: 100%;
     background-position: center;
+    font-size: 22px;
 }
 .left:hover, .right:hover {
     width: 100%;
@@ -147,6 +149,8 @@ h1 {
     background-position: center;
 }
 .btn {
-    padding: 10px 20px;
+    padding: 10px;
+    width: 150px;
+    font-size: 20px;
 }
 }
